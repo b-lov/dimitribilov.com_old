@@ -98,8 +98,8 @@ textarea {
    ========================================================================== */
 
 body {
-    background: black;
-    font-family: 'Lato', sans-serif;
+    background: #242424;
+    font-family: sans-serif;
     color: white;
     font-weight: 300;
 }
@@ -123,7 +123,7 @@ nav {
     position: fixed;
     top: 0;
     width: 100%;
-    background-color: black;
+    background-color: #242424;
     z-index: 10;
 }
 
